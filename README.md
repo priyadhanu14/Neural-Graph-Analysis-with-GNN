@@ -5,3 +5,4 @@ By integrating advanced Graph convolutional and attention mechanisms, the model 
 
 Implemented using PyTorch Geometric, the framework seamlessly handles complex graph data and demonstrates strong potential in cognitive neuroscience and brain network analysis.
 
+![brain_network_transition](https://github.com/user-attachments/assets/cf41eea8-a85b-47e5-882a-22a00e2b87b8)
